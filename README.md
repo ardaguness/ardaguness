@@ -7,9 +7,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaguness&show_icons=true&locale=en&layout=compact" alt="ardaguness" />
-  <span>C# - 90%</span>
-  <span>Python - 5%</span>
-  <span>Dart - 5%</span>
 </p>
 
 
